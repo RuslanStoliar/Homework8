@@ -9,10 +9,10 @@ users =[
     {'name':'Olga'  ,'birthday' : datetime(year=1995, month=11, day=11)},
     {'name':'Yana'  ,'birthday' : datetime(year=1996, month=11, day=12)}, 
     {'name':'Valet' ,'birthday' : datetime(year=1997, month=11, day=12)},
-    {'name':'Mark',  'birthday' : datetime(year=1998, month=11, day=13)},
+    {'name':'Mark',  'birthday' : datetime(year=1998, month=11, day=11)},
     {'name':'Ivan'  ,'birthday' : datetime(year=1999, month=12, day=14)},
     {'name':'Marine','birthday' : datetime(year=2000, month=11, day=13)},
-    {'name':'Katya' ,'birthday' : datetime(year=2001, month=11, day=13)},
+    {'name':'Katya' ,'birthday' : datetime(year=2001, month=11, day=15)},
     {'name':'Yanina','birthday' : datetime(year=2002, month=11, day=15)}
 ]
 weekday = {}
